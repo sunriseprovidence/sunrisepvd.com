@@ -22,7 +22,7 @@
                     <!--<a href='news.php' class='button gray'>News</a>-->
                     <a href='/get-involved' class='button gray'>Join Us</a>
                     <!--<a href='https://sunrisemovement.myshopify.com/' class='button gray'>Shop</a>-->
-                    <a href='https://www.gofundme.com/f/sunrisePVD2020' class='button donate' target='_blank'>Donate</a>
+                    <a href='https://secure.actblue.com/donate/sunrise-providence-pac?refcode=website-header&recurring=true&amount=27' class='button donate' target='_blank'>Donate</a>
                 </nav>
                 <div class='hamburger-wrapper'>
                     <button id='my-hamburger' class='hamburger'>

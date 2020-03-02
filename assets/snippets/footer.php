@@ -20,7 +20,7 @@
     <section class="background gray">
         <div class="container">
             <div class="layout wide text-align-center donate-wrapper">
-                <a href='https://www.gofundme.com/f/sunrisePVD2020' class="donate button yellow" target='_blank'>Donate</a>
+                <a href='https://secure.actblue.com/donate/sunrise-providence-pac?refcode=website-footer&recurring=true&amount=27' class="donate button yellow" target='_blank'>Donate</a>
             </div>
             <div class="layout wide footer-layout">
                 <div class="stay-connected">

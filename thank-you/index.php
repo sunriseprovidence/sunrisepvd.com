@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
 <?php
-    $title = "Donate";
+    $title = "Template";
     $root = $_SERVER['DOCUMENT_ROOT'];
-    $url = "https://www.sunrisepvd.com/donate";
+    $url = "https://www.sunrisepvd.com/template.php";
 ?>
 
 <html <?php include $root . '/assets/snippets/html-attributes.php' ?>>
     <head>
         <?php include $root . '/assets/snippets/head.php' ?>
-        <meta http-equiv="Refresh" content="0; url=https://secure.actblue.com/donate/sunrise-providence-pac?refcode=donate-redirect&recurring=true&amount=27" />
         
         <!-- Set up Open Graph Protocol -->
-        <meta property="og:title" content=<?php echo $title . ' | Sunrise RI' ?>>
+        <meta property="og:title" content=<?php echo $title . 'Sunrise RI' ?>>
         <meta property="og:site_name" content="Sunrise RI" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="http://www.sunrisepvd.com/" />
@@ -30,8 +29,8 @@
             <section class="background light">
                 <div class="container">
                     <div class="layout narrow">
-                        <h4>Please wait. You are being redirected.</h4>
-                        <p>If this page does not reload within a few seconds, you can manually continue on to our <a href="https://secure.actblue.com/donate/sunrise-providence-pac?refcode=donate-redirect&recurring=true&amount=27">donate page</a>.</p>
+                        <h1>Header</h1>
+                        <p>This is some content.</p>
                     </div>
                 </div>
             </section>
