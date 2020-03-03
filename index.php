@@ -14,7 +14,7 @@
         <meta property="og:site_name" content="Sunrise RI">
         <meta property="og:title" content="Sunrise RI" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://www.sunrisepvd.com/" />
+        <meta property="og:url" content="https://www.sunrisepvd.com/" />
         <meta property="og:image" content="assets/photos/strike_street.jpg" />
         <meta property="og:description" content="Sunrise Providence is a movement of young people fighting to stop the climate crisis and create millions of good jobs in the process.">
         
