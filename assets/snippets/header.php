@@ -3,7 +3,7 @@
         <div class='container'>
             <div class='masthead wide'>
                 <a href='/' class='button'>
-                    <img class='logo' src="/assets/images/logos/logo_with_text.png" />
+                    <img class='logo' src="/assets/images/logos/logo_stacked_web.png" />
                 </a>
                 <nav id='my-topnav' class='topnav gray'>
                     <!--<a href='/about/' class='button gray'>About</a>
